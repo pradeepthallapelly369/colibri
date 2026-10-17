@@ -47,7 +47,7 @@
   "router_aux_loss_coef": 0.001,
   "shared_expert_intermediate_size": 32,
   "tie_word_embeddings": false,
-  "transformers_version": "5.16.1",
+  "transformers_version": "5.18.0",
   "use_cache": true,
   "vocab_size": 320
 }
